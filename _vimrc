@@ -3,13 +3,12 @@ source $VIMRUNTIME/vimrc_example.vim
 syntax enable
 au GUIEnter * simalt ~x
 autocmd InsertEnter * set nohlsearch
-set guioptions -=T
 set encoding=utf-8
 set hls
 set is
 set cb=unnamed
 set gfn=Fixedsys:h17
-set ts=2
+set ts=4
 set sw=4
 set si
 cd C:\Users\justi\OneDrive\ドキュメント\Avim
